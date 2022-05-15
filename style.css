@@ -16,7 +16,7 @@ body {
 .image-name-subtext {
     display: flex;
     flex-direction: row-reverse;
-    justify-content: space-around;
+    justify-content: space-evenly;
     margin-left: 107px;
     margin-top: 45px;
 }
@@ -43,4 +43,8 @@ img {
 
 button {
     font-size: 24px;
+}
+
+h2 {
+    color: white;
 }
