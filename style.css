@@ -1,0 +1,46 @@
+body {
+    background-color: #1F2937;
+}
+
+.container-1 {
+}
+
+.logo-and-links {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+    gap: 272px;
+}
+
+.image-name-subtext {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-around;
+    margin-left: 107px;
+    margin-top: 45px;
+}
+
+ul {
+    list-style-type: none;  
+    display: flex;
+    gap: 16px; 
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+p {
+    font-weight: normal;
+    font-size: 18px;
+}
+
+img {
+    height: 245px; 
+}
+
+button {
+    font-size: 24px;
+}
