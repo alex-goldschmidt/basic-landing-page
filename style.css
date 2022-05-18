@@ -1,6 +1,6 @@
 /* Container-1 */
 body {
-
+display: contents;
 }
 
 .container-1 {
@@ -62,13 +62,59 @@ h2 {
     align-items: center;
     text-align: center;
     overflow: hidden;
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
 
 img {
-    height: 150px;
+    height: 200px;
 }
 
 .cards {
     display: flex;
     gap: 16px;
+}
+/* End of Container 2 */
+
+/* Beginning of Container 3 */
+.container-3{
+    display: flex;
+    justify-content: center;
+    font-family: fantasy;
+    font-style: italic;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color: #E5E7EB;
+    height: 400px;
+    align-items: center;
+}
+
+.yoda-quote {
+    font-size: 36px;
+}
+
+/* End of Container 3 */
+
+/* Beginning of Section 4 */
+
+.container-4 {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 35px;
+}
+
+button {
+    width: 160px;
+    height: 40px;
+    display: flex;
+    align-self: center;
+    justify-content: center;
+    border-radius: 25px;
+}
+
+.information {
+    display: flex;
+    background-color: #3882f6;
+    width: 615px;
+    border-radius: 25px;
 }
