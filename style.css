@@ -41,6 +41,7 @@ p {
 
 img {
     height: 245px; 
+    border-radius: 25px;
 }
 
 button {
