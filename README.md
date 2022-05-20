@@ -1,4 +1,4 @@
-# basic-landing-page
+# star-wars-memes-landing-page
 
 [[Images/grandma.JPG]]
 
